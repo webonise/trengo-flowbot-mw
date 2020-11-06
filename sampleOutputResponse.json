@@ -1,0 +1,29 @@
+{
+    "contents": [
+        {
+            "type": "image",
+            "image": {
+                "url": "https://teapotwebshop.com/teapots/lime.jpg",
+                "caption": "1 Our lime teapot"
+            }
+        },
+        {
+            "type": "image",
+            "image": {
+                "url": "https://teapotwebshop.com/teapots/modern.png",
+                "caption": "2 Our modern teapot"
+            }
+        },
+        {
+            "type": "image",
+            "image": {
+                "url": "https://teapotwebshop.com/teapots/blue.jpg",
+                "caption": "3 Our blue teapot"
+            }
+        },
+        {
+            "type": "text",
+            "text": "Choose to place an order with it's number if you found something you like"
+        }
+    ]
+}

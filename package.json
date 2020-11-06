@@ -1,0 +1,43 @@
+{
+  "name": "trengo-flowbot-mw",
+  "version": "1.0.0",
+  "description": "trengo flowbot middleware",
+  "scripts": {
+    "lint": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webonise/trengo-flowbot-mw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webonise/trengo-flowbot-mw/issues"
+  },
+  "homepage": "https://github.com/webonise/trengo-flowbot-mw#readme",
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "husky": "^4.3.0",
+    "serverless-offline": "^6.8.0",
+    "lint-staged": "^10.3.0",
+    "prettier": "^2.1.1"
+  },
+  "dependencies": {
+    "got": "^11.8.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged ."
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "npm run lint",
+      "git add ."
+    ]
+  }
+}
