@@ -1,0 +1,29 @@
+{
+    "contents": [
+        {
+            "type": "image",
+            "image": {
+                "url": "https://media.gettyimages.com/photos/vintage-bone-china-teapot-with-a-cup-of-tea-picture-id184841953?s=2048x2048",
+                "caption": "1 Vintage Bone China Teapot"
+            }
+        },
+        {
+            "type": "image",
+            "image": {
+                "url": "https://media.gettyimages.com/photos/tea-time-picture-id997972742?s=2048x2048",
+                "caption": "2 Our modern teapot"
+            }
+        },
+        {
+            "type": "image",
+            "image": {
+                "url": "https://media.gettyimages.com/photos/red-teapot-picture-id174088377?s=2048x2048",
+                "caption": "3 Out Earthen teapot"
+            }
+        },
+        {
+            "type": "text",
+            "text": "Diwali gifts curated specifically for Amit"
+        }
+    ]
+}
