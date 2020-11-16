@@ -1,0 +1,29 @@
+{
+    "contents": [
+        {
+            "type": "image",
+            "image": {
+                "url": "https://media.gettyimages.com/photos/closeup-of-wallet-over-white-background-picture-id748601541?s=2048x2048",
+                "caption": "1 Wallet with Cardholder"
+            }
+        },
+        {
+            "type": "image",
+            "image": {
+                "url": "https://media.gettyimages.com/photos/closeup-of-leather-wallet-over-white-background-picture-id914271364?s=2048x2048",
+                "caption": "2 Classic Leather Wallet"
+            }
+        },
+        {
+            "type": "image",
+            "image": {
+                "url": "https://media.gettyimages.com/photos/open-brown-leather-wallet-isolated-on-white-background-picture-id958205688?s=2048x2048",
+                "caption": "3 Classic Tan Leather Wallet"
+            }
+        },
+        {
+            "type": "text",
+            "text": "Diwali gifts curated specifically for Saurav"
+        }
+    ]
+}

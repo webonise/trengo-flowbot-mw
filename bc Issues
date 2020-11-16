@@ -1,0 +1,30 @@
+Issues - 
+
+1.Entitlement hole where anyone with a formulator plan could access PPs.
+2.Graded stakes race name for the Alliance Stakes
+3.Ticketmaker trackcode being wrong.
+4.Notes not being saved?
+5.Need to validate if Notes for foreign shippers taken in the advanced cards persist in the actual card.
+Check list for packages - 
+a.Special event packages entry to be made in combinedStatic.json
+b.Ensure stage data is at parity with prod - eg - test BC Advanced card with the actual data.
+c.Acess centre issues reported by Lonnie.
+6.Entries needing adjustment when day light saving starts/ends?
+7.if user preferences fails the LR on entries does not show up - may be tightly coupled to the UP call.
+8.Bets outage - firewall got swamped with unexpected traffic which clogged the outgoing responses 
+a.Double wagers.
+b.Balance not showing - user confidence?
+9.Super Pro results - need to establish SoPs to ensure that new data is reflected.
+a.Know which DTOs are to be updated?
+b.Redis flushed?
+c.Repopulating it?Steps to be taken.
+Takeway  -
+1.Revision of "legacy" apps - 
+a.proservice.
+b.ticketmaker.
+c.superpro.
+2.Establish SoPs to deal with data correction
+
+1.whenever the real DMR card for 21 is drawn take the BC advanced card out
+2.user messaging
+3.Load testing
